@@ -1,1 +1,2 @@
 # Huffman-Coding
+It is a simple python code for huffmann coding developed using python libraries. It consists of two files:- main.py and huffmancoding.py. Main.py imports huffmancoding.py which calls compression and decompression function. HuffmanCoding.py contains two main functions:- compress and decompress. Compress inputs the file path as .txt file and creates a new compressed .bin file in the sample folder and decompress takes the bin file, decode it and create a new decompressed .txt file.
